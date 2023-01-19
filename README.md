@@ -1,2 +1,2 @@
-"# econstat" 
-"# cnt" 
+"# cnosg" 
+"# cnosg" 
